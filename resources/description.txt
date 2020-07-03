@@ -1,0 +1,1 @@
+Import the data.sql file as explained in README.md
