@@ -1,5 +1,5 @@
 # Search-Algorithm
-This shows the search algorithm on Mexican Data Set of Real Estates
+This shows the search algorithm on Mexican Data Set of Real Estates with autocomplete feature for search text.
 ## Installation
 First things first we need to have xampp installed on our desktop, for which you can refer to this tutorial:
 
