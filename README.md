@@ -52,7 +52,7 @@ After this open your browser and type
 
 >localhost/auto_comp
 
-A search page will appear try searching villa house or any name of city in mexico.
+**A search page will appear try searching villa house or any name of city in mexico.**
 
 ![alt text](https://github.com/Chamber-of-Product/Search-Algorithm/blob/master/images/searchbar.PNG)
 
